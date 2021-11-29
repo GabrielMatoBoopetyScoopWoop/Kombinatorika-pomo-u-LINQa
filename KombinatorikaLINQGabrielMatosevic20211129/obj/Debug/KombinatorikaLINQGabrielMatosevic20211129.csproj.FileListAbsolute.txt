@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\bin\Debug\KombinatorikaLINQGabrielMatosevic20211129.exe.config
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\bin\Debug\KombinatorikaLINQGabrielMatosevic20211129.exe
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\bin\Debug\KombinatorikaLINQGabrielMatosevic20211129.pdb
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\obj\Debug\KombinatorikaLINQGabrielMatosevic20211129.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\obj\Debug\KombinatorikaLINQGabrielMatosevic20211129.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\obj\Debug\KombinatorikaLINQGabrielMatosevic20211129.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\obj\Debug\KombinatorikaLINQGabrielMatosevic20211129.exe
+C:\Users\ucenik\source\repos\KombinatorikaLINQGabrielMatosevic20211129\obj\Debug\KombinatorikaLINQGabrielMatosevic20211129.pdb
